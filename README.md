@@ -12,8 +12,8 @@
 - Git, GitHub
 
 **🔭 Current Projects:**
-PP Electrical Redesign 
-Current - ppelectrical.org
+- PP Electrical Redesign 
+- Current: ppelectrical.org
 
 **💬 Let's Talk About:**
 - Frontend development
