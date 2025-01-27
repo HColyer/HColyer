@@ -19,10 +19,7 @@ Current - ppelectrical.org
 - Frontend development
 - Backend development
 - Fullstack projects
-- Freelance opportunities
-
-**⚡ Fun Fact:**
-- Share a fun fact about yourself, your hobbies, or your interests!
+- Remote work opportunities
 
 ---
 
